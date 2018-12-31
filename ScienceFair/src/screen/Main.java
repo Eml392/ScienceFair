@@ -47,6 +47,9 @@ public class Main extends JFrame{
 		screen.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		
 		System.out.println("Your mum");
+		
+		System.out.println("Your granny tranny");
+		
 	}
 
 }
