@@ -45,6 +45,8 @@ public class Main extends JFrame{
 		screen.setResizable(false);
 		
 		screen.setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		System.out.println("Your mum");
 	}
 
 }
